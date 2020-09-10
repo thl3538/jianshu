@@ -1,0 +1,58 @@
+{
+  "id": "1838470",
+  "name": "jianshu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "667792",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "705651",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "3050856",
+      "name": "钻石",
+      "font_class": "diamonds",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "401103",
+      "name": "spin",
+      "font_class": "spin",
+      "unicode": "e851",
+      "unicode_decimal": 59473
+    },
+    {
+      "icon_id": "10838475",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1309150",
+      "name": "工具,写,编辑,钢笔,铅笔,设备,写作,线性,扁平,填充,单色,简约,圆润",
+      "font_class": "24",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "1621077",
+      "name": "Aa",
+      "font_class": "Aa",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}
